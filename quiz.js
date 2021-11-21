@@ -1,4 +1,4 @@
-var checkBtn = document.querySelector("#quiz-check");
+var checkBtn = document.querySelector("#btn-score");
 var message = document.querySelector("#quiz-message");
 var form = document.querySelector(".quiz-form");
 const ans = ['90', 'right angled', '180', '1', '80', '60'];
